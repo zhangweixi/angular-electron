@@ -1,3 +1,5 @@
+### 一站式简历管理平台，同步更新到所有招聘网站
+
 [![Angular Logo](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)](https://angular.io/) [![Electron Logo](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg)](https://electronjs.org/)
 
 [![Travis Build Status][build-badge]][build]
