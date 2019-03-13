@@ -1,16 +1,7 @@
 ### 一站式简历管理平台，同步更新到所有招聘网站
 
-感谢 maximegris/angular-electron 这个开源脚手架
+### 感谢 maximegris/angular-electron 这个开源脚手架
 
-
-[![Travis Build Status][build-badge]][build]
-[![Dependencies Status][dependencyci-badge]][dependencyci]
-[![Make a pull request][prs-badge]][prs]
-[![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE.md)
-
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
 
 
 ## Included Commands
